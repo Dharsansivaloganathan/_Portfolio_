@@ -98,7 +98,7 @@ const NavBar = ({ homePage, bgBlack }) => {
       </div>
       {homePage && (
         <Link
-          href="https://wa.me/9791650448?text=Hi!%20I'm%20interested%20in%20your%20Profile.%20Can%20we%20discuss%20further?"
+          href="https://wa.me/919791650448?text=Hi!%20I'm%20interested%20in%20your%20Profile.%20Can%20we%20discuss%20further?"
           target="_blank"
           className="top-[1.5rem] md:top-[2rem] right-[1.5rem] md:right-[2rem] absolute animate-slideInTop"
         >
